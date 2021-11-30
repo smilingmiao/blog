@@ -1,23 +1,22 @@
 baseURL = 'https://smilingmiao.github.io/blog/'
 languageCode = 'zh-cn'
-title = "mio's blog"
+title = "🛖  mio's blog"
 theme = "hugo-book"
 
 disablePathToLower = true
-enableGitInfo = true
+googleAnalytics = 'G-MEASUREMENT_ID'
 
-# Needed for mermaid/katex shortcodes
 [markup]
 [markup.goldmark.renderer]
   unsafe = true
   
 [markup.tableOfContents]
-  startLevel = 2
+  startLevel = 1
+  endLevel = 2
 
 [params]
   BookTheme = 'auto'
   BookToC = true
-  BookMenuBundle = '/menu'
-  BookSection = 'docs'
+  BookSection = '*'
   BookSearch = true
   
