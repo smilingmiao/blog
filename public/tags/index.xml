@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on mio&#39;s blog</title>
+    <title>Tags on 🛖  mio&#39;s blog</title>
     <link>https://smilingmiao.github.io/blog/tags/</link>
-    <description>Recent content in Tags on mio&#39;s blog</description>
+    <description>Recent content in Tags on 🛖  mio&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://smilingmiao.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Nov 2021 14:50:52 +0800</lastBuildDate><atom:link href="https://smilingmiao.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>严肃</title>
+      <link>https://smilingmiao.github.io/blog/tags/%E4%B8%A5%E8%82%83/</link>
+      <pubDate>Tue, 30 Nov 2021 14:50:52 +0800</pubDate>
+      
+      <guid>https://smilingmiao.github.io/blog/tags/%E4%B8%A5%E8%82%83/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

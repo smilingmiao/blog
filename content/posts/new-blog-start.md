@@ -1,7 +1,7 @@
 ---
 title: "新的起点"
 date: 2021-11-30T14:50:52+08:00
-draft: true
+draft: false
 bookSearchExclude: true
 categories: 心记
 tags: 严肃
