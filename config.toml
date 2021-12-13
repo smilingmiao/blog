@@ -12,7 +12,6 @@ googleAnalytics = 'G-MEASUREMENT_ID'
   
 [markup.tableOfContents]
   startLevel = 1
-  endLevel = 2
 
 [params]
   BookTheme = 'auto'
