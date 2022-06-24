@@ -9,7 +9,6 @@ bookToC: true
 ---
 
 # 被讨厌的勇气：自我启发之父阿德勒的哲学课 (Chinese Edition)
-
 ### 岸见一郎,古贺史健
 
 <br/>

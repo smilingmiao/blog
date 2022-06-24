@@ -9,7 +9,6 @@ bookToC: true
 ---
 
 # 投资中不简单的事 (Chinese Edition)
-
 ### 邱国鹭,邓晓峰,卓利伟,孙庆瑞,冯柳
 
 <br/>

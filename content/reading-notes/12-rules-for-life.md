@@ -11,7 +11,7 @@ bookToC: true
 # 人生十二法则
 ### 乔丹·彼得森
 
-</br>
+<br/>
 
 ◆ 乔丹·彼得森（Jordan B. Peterson）
 
