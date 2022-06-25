@@ -2,7 +2,7 @@
 title: "百岁所思"
 date: 2021-12-29T23:54:42+08:00
 draft: false
-bookSearchExclude: false
+bookSearchExclude: true
 categories: 全球化
 tags: 周有光
 bookToC: true

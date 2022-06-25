@@ -1,6 +1,6 @@
 baseURL = 'https://smilingmiao.github.io/blog/'
 languageCode = 'zh-cn'
-title = "🛖  mio's blog"
+title = "🫥"
 theme = "hugo-book"
 
 disablePathToLower = true

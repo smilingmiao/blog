@@ -2,7 +2,7 @@
 title: "梁宁解读东方甄选：爆火的背后，是活下去的渴望"
 date: 2022-06-25T23:32:46+08:00
 draft: false
-bookSearchExclude: false
+bookSearchExclude: true
 categories: 产品解读
 tags: 东方甄选
 bookToC: true

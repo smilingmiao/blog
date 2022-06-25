@@ -2,7 +2,7 @@
 title: "傅雷家书"
 date: 2022-06-15T22:06:36+08:00
 draft: false
-bookSearchExclude: false
+bookSearchExclude: true
 categories: 家书
 tags: 书信
 bookToC: true
