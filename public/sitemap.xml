@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smilingmiao.github.io/blog/archive-articles/</loc>
-    <lastmod>2022-06-25T23:32:46+08:00</lastmod>
-  </url><url>
     <loc>https://smilingmiao.github.io/blog/categories/</loc>
-    <lastmod>2022-06-25T23:32:46+08:00</lastmod>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/tags/%E5%BF%83%E7%90%86/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/categories/%E6%80%A7%E7%81%B5/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/dun-gan-li/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/</loc>
+    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/archive-articles/</loc>
     <lastmod>2022-06-25T23:32:46+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89/</loc>
@@ -19,12 +34,6 @@
   </url><url>
     <loc>https://smilingmiao.github.io/blog/archive-articles/liang-ning-jie-du-dong-fang-zhen-xuan/</loc>
     <lastmod>2022-06-25T23:32:46+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/</loc>
-    <lastmod>2022-06-25T23:32:46+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/reading-notes/</loc>
-    <lastmod>2022-06-25T00:15:53+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/categories/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2022-06-25T00:15:53+08:00</lastmod>
