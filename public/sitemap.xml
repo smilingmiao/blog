@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smilingmiao.github.io/blog/</loc>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
+  </url><url>
     <loc>https://smilingmiao.github.io/blog/categories/</loc>
-    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/</loc>
-    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/</loc>
-    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/zen-yang-liao-tian-nuan-ren-xin/</loc>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/tags/%E6%B2%9F%E9%80%9A/</loc>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/categories/%E6%B2%9F%E9%80%9A/</loc>
+    <lastmod>2022-07-12T18:43:09+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/tags/%E4%B8%A5%E8%82%83/</loc>
+    <lastmod>2022-07-12T18:42:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/categories/%E5%BF%83%E8%AE%B0/</loc>
+    <lastmod>2022-07-12T18:42:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/gei-tou-zi-xin-shou-de-ji-jian-gu-piao-ke/</loc>
+    <lastmod>2022-07-12T18:42:11+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/wen-xue-hui-yi-lu/</loc>
+    <lastmod>2022-06-29T22:09:01+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/%E5%BF%83%E7%90%86/</loc>
     <lastmod>2022-06-27T15:00:11+08:00</lastmod>
@@ -18,9 +42,6 @@
     <lastmod>2022-06-27T15:00:11+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/dun-gan-li/</loc>
-    <lastmod>2022-06-27T15:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/</loc>
     <lastmod>2022-06-27T15:00:11+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/archive-articles/</loc>
@@ -297,12 +318,6 @@
     <lastmod>2021-12-13T16:56:11+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/drafts/views-for-family/</loc>
-    <lastmod>2021-12-13T16:56:11+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/tags/%E4%B8%A5%E8%82%83/</loc>
-    <lastmod>2021-12-13T16:56:11+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/categories/%E5%BF%83%E8%AE%B0/</loc>
     <lastmod>2021-12-13T16:56:11+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/posts/</loc>
