@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smilingmiao.github.io/blog/</loc>
-    <lastmod>2022-09-27T13:44:36+08:00</lastmod>
-  </url><url>
     <loc>https://smilingmiao.github.io/blog/categories/</loc>
-    <lastmod>2022-09-27T13:44:36+08:00</lastmod>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/</loc>
-    <lastmod>2022-09-27T13:44:36+08:00</lastmod>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/</loc>
-    <lastmod>2022-09-27T13:44:36+08:00</lastmod>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/reading-notes/quan-qiu-tong-shi/</loc>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/categories/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
+  </url><url>
+    <loc>https://smilingmiao.github.io/blog/</loc>
+    <lastmod>2022-12-21T17:24:21+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/categories/%E5%9B%BD%E5%AE%B6%E6%88%96%E7%BB%84%E7%BB%87/</loc>
     <lastmod>2022-09-27T13:44:36+08:00</lastmod>
@@ -160,9 +169,6 @@
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/bian-mi-fang-zhi-yi-ben-tong/</loc>
     <lastmod>2022-03-02T21:52:31+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2022-02-24T22:18:23+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/ming-chao-na-xie-shi-er/</loc>
     <lastmod>2022-02-24T22:18:23+08:00</lastmod>
@@ -328,9 +334,6 @@
   </url><url>
     <loc>https://smilingmiao.github.io/blog/reading-notes/xing-fu-de-yong-qi/</loc>
     <lastmod>2021-12-13T23:22:58+08:00</lastmod>
-  </url><url>
-    <loc>https://smilingmiao.github.io/blog/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2021-12-13T23:20:37+08:00</lastmod>
   </url><url>
     <loc>https://smilingmiao.github.io/blog/tags/%E6%8A%97%E6%88%98-%E5%86%85%E6%88%98/</loc>
     <lastmod>2021-12-13T23:20:37+08:00</lastmod>
